@@ -47,4 +47,9 @@ Distribution of content across countries 🌍
 
 Trends in genres over the years 🎭
 
+🐱‍🚀RUN
+https://github.com/TanishaKumawat/netflix-data-analysis/blob/main/netflix_analysis.ipynb
+
+💡DATASET
+Kaggle
 
